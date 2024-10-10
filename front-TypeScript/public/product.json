@@ -1,0 +1,237 @@
+[
+  {
+    "_id": "660a8be56b812527b76c03d1",
+    "product_id": "pd01",
+    "product_name": "Apple iPhone 13",
+    "price": 575,
+    "category_id": "ct01",
+    "category_name": "mobile & gadgets",
+    "images": [
+      "https://down-th.img.susercontent.com/file/7945fb86f3b909b680b699a69b09e256",
+      "https://down-th.img.susercontent.com/file/5af1823ba5f7caa8d8d0a049219bfe46",
+      "https://down-th.img.susercontent.com/file/bbc803877bcf9e2e2c01d7f1a7070893"
+    ],
+    "description": "Apple iPhone 13iPhone 13 มาพร้อมระบบกล้องคู่สุดล้ำ ชิป A15 Bionic ที่เร็วสุดขั้ว แบตเตอรี่ที่ใช้งานได้นานขึ้นแบบก้าวกระโดดครั้งใหญ่ ดีไซน์ที่ทนทาน 5G ที่เร็วสุดแรง1 และจอภาพ Super Retina XDR ที่สว่างสดใส",
+    "inventory_quantity": 7,
+    "ratings": 4.9,
+    "updated_at": "2024-04-01T10:26:45.631Z",
+    "__v": 0
+  },
+  {
+    "_id": "660a8d8f6b812527b76c03d7",
+    "product_id": "pd02",
+    "product_name": "HyperX Cloud Earbuds II",
+    "price": 56.86,
+    "category_id": "ct02",
+    "category_name": "computers & laptops",
+    "images": [
+      "https://down-th.img.susercontent.com/file/th-11134207-7qul4-lhilasyh1spvf0",
+      "https://down-th.img.susercontent.com/file/th-11134207-7qukx-lh3ek301lc881a",
+      "https://down-th.img.susercontent.com/file/th-11134207-7qul9-lh3ek301pjxk91"
+    ],
+    "description": "HyperX Cloud Earbuds II มีไดรเวอร์ขนาด 14 มม. ที่ปรับแต่งมาสำหรับระบบเสียงบนอุปกรณ์เคลื่อนที่ เพื่อประสบการณ์เสียงที่ยอดเยี่ยม ไม่ว่าคุณจะเล่นเกม ดูสตรีม จุกหูฟังที่ออกแบบใหม่ 4 ชุดเพื่อให้แน่ใจว่าหูฟังจะใส่ได้พอดี  Cloud Earbuds II ยังมีหัวปลั๊กแบบโลว์โปรไฟล์ งอได้ 90 องศา เพื่อไม่ให้เกะกะ เคสแบบแข็งสำหรับพกพา และไมโครโฟนในตัวสำหรับโทรศัพท์ หูฟังอเนกประสงค์เหล่านี้ใช้งานร่วมกันได้กับพีซี1, Nintendo Switch, Steam Deck™ และอุปกรณ์เคลื่อนที่2 ที่ใช้การเชื่อมต่อแบบ 3.5 มม.",
+    "inventory_quantity": 8,
+    "ratings": 4.9,
+    "updated_at": "2024-04-01T10:33:51.586Z",
+    "__v": 0
+  },
+  {
+    "_id": "660a8f126b812527b76c03da",
+    "product_id": "pd03",
+    "product_name": "PlayStation 5™ △○×□ Vol.02",
+    "price": 999.7,
+    "category_id": "ct04",
+    "category_name": "gaming & accessories",
+    "images": [
+      "https://down-th.img.susercontent.com/file/th-11134207-7r98s-lpzy35178aoqc3",
+      "https://down-th.img.susercontent.com/file/652b3ea45a5fce63b2a8f17c1ceb3d42",
+      "https://down-th.img.susercontent.com/file/e7cb2363b28947f036755d149d7cc821"
+    ],
+    "description": "เครื่องเล่นเกม PS5 Slim PlayStation 5 Slim  Ultra HD Blu-ray Edition รุ่นมีไดรฟ์อ่านแผ่น Ultra HD Blu-ray",
+    "inventory_quantity": 3,
+    "ratings": 4.9,
+    "updated_at": "2024-04-01T10:40:18.519Z",
+    "__v": 0
+  },
+  {
+    "_id": "660a90536b812527b76c03dd",
+    "product_id": "pd04",
+    "product_name": "RICOH GR III Digital Camera",
+    "price": 1140,
+    "category_id": "ct03",
+    "category_name": "cameras",
+    "images": [
+      "https://down-th.img.susercontent.com/file/th-11134207-7r98q-lt2oq50ckkmm3c",
+      "https://down-th.img.susercontent.com/file/th-11134207-7r98y-lt2oq50d00ql53",
+      "https://down-th.img.susercontent.com/file/th-11134207-7r98r-lt2oq50ckkhp95"
+    ],
+    "description": "ประกัน 1 ปี มีปัญหาส่งให้ทางร้านได้เลยค่ะ เครื่องเป็นศูนย์นอกนะคะ ของเป็นพรีค่ะที่ร้านยังไม่มี stock ",
+    "inventory_quantity": 0,
+    "ratings": 4.9,
+    "updated_at": "2024-04-01T10:45:39.704Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b7496a7a36e250132b212",
+    "product_id": "pd05",
+    "product_name": "ชามอาหารสัตว์ แบบใหม่",
+    "price": 2.6,
+    "category_id": "ct05",
+    "category_name": "pets",
+    "images": [
+      "https://down-th.img.susercontent.com/file/th-11134207-7r990-lof7ufl4dhi740",
+      "https://down-th.img.susercontent.com/file/th-11134207-7r991-lof7ufl58dzz22",
+      "https://down-th.img.susercontent.com/file/th-11134207-7r98y-lof7ufl4dhnodf"
+    ],
+    "description": "หมายเหตุ สินค้ามีปัญหา ได้ของไม่ครบ ผมรับผิดชอบ หมดทุกอย่าง ครับ ทักมาคุยกันครับผม",
+    "inventory_quantity": 71,
+    "ratings": 3.4,
+    "updated_at": "2024-04-02T02:59:34.247Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b75aea7a36e250132b215",
+    "product_id": "pd06",
+    "product_name": "La Roche-Posay CICAPLAST BAUME B5+",
+    "price": 15.4,
+    "category_id": "ct06",
+    "category_name": "beauty & Personal care",
+    "images": [
+      "https://down-th.img.susercontent.com/file/th-11134201-7r98t-ltjtzp5icvua15",
+      "https://down-th.img.susercontent.com/file/th-11134201-7r991-ltjtzp7ga1jj8d",
+      "https://down-th.img.susercontent.com/file/th-11134201-7r98r-ltjtzp58das906"
+    ],
+    "description": "บาล์มบำรุงผิวช่วยปลอบประโลมและฟื้นบำรุงสภาพผิวสำหรับผิวแห้งและผิวที่มีแนวโน้มระคายเคืองง่ายเหมาะกับทุกการใช้และทุกคนในครอบครัวรวมถึงเด็กเล็ก",
+    "inventory_quantity": 19,
+    "ratings": 4.9,
+    "updated_at": "2024-04-02T03:04:14.500Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b76f9a7a36e250132b218",
+    "product_id": "pd07",
+    "product_name": "นาฬิกาข้อมือผู้หญิง PROJECT TWO รุ่น AOST23549 ",
+    "price": 84.77,
+    "category_id": "ct07",
+    "category_name": "watches & glasses",
+    "images": [
+      "https://down-th.img.susercontent.com/file/th-11134207-7r98u-lqx3lnadxc59ba",
+      "https://down-th.img.susercontent.com/file/th-11134207-7r98v-lqx3lnadyqpp2d",
+      "https://down-th.img.susercontent.com/file/th-11134207-7r98z-lqx3lnadvxkt7a"
+    ],
+    "description": "ทนทานต่อการกระเด็นหรือแช่ในน้ำในระยะสั้นๆ แต่ไม่เหมาะสำหรับการใส่ว่ายน้ำหรือใส่อาบน้ำสินค้าของแท้ 100% พร้อมกล่อง",
+    "inventory_quantity": 8,
+    "ratings": 2.5,
+    "updated_at": "2024-04-02T03:09:45.423Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b7850a7a36e250132b21a",
+    "product_id": "pd08",
+    "product_name": "ASICS : EvoRide SPEED MEN RUNNING",
+    "price": 140,
+    "category_id": "ct08",
+    "category_name": "spots & outdoors",
+    "images": [
+      "https://down-th.img.susercontent.com/file/th-11134207-7r992-lp7r3fz5t5ku6c",
+      "https://down-th.img.susercontent.com/file/th-11134207-7r991-lp7r3fz5xda6f7",
+      "https://down-th.img.susercontent.com/file/th-11134207-7r98t-lp7r3fz4u1dq90"
+    ],
+    "description": "เป็นรองเท้าเทรนนิ่งน้ำหนักเบาที่ออกแบบมาเพื่อเน้นการประหยัดพลังงานมากขึ้นการพัฒนาของรองเท้าเทรนนิ่งรุ่นนี้มุ่งเน้นไปที่การทรงตัวการม้วนตัวไปข้างหน้าอย่างนุ่มนวล และการยึดเกาะ",
+    "inventory_quantity": 4,
+    "ratings": 4.8,
+    "updated_at": "2024-04-02T03:15:28.714Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b79cfa7a36e250132b21d",
+    "product_id": "pd09",
+    "product_name": "OATSIDE Barista Blend 1L",
+    "price": 2.8,
+    "category_id": "ct09",
+    "category_name": "food & beverages",
+    "images": [
+      "https://down-th.img.susercontent.com/file/sg-11134201-22100-noiwcyjasbjvf0",
+      "https://down-th.img.susercontent.com/file/sg-11134201-22100-rzllktiasbjv01",
+      "https://down-th.img.susercontent.com/file/sg-11134201-22100-eu6v6nkasbjv79"
+    ],
+    "description": "OATSIDE Barista Blend โอ๊ตไซด์ บาริสต้า เบลน โอ๊ต มิลค์ ขนาด 1000 มล. (1 กล่อง) หอมอร่อยครีมมี่เข้มข้นเหมาะสำหรับ ชงชา กาแฟและเบเกอร์รี่ต่างๆ",
+    "inventory_quantity": 6,
+    "ratings": 4.8,
+    "updated_at": "2024-04-02T03:21:51.891Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b7a71a7a36e250132b220",
+    "product_id": "pd10",
+    "product_name": "LEGO Art 31208 Hokusai – The Great Wave Building Kit",
+    "price": 85.4,
+    "category_id": "ct10",
+    "category_name": "baby & toys",
+    "images": [
+      "https://down-th.img.susercontent.com/file/th-11134207-7r98q-loxt64nm0ynd57",
+      "https://down-th.img.susercontent.com/file/th-11134207-7r98s-loxt64nm7zhl49",
+      "https://down-th.img.susercontent.com/file/th-11134207-7r98y-loxt64nm6kx577"
+    ],
+    "description": "Lovers of art and classic paintings will adore this incredible LEGO® Art building set for adults. You can create a LEGO replica of one of the art world’s most iconic works Hokusai’s The Great Wave (31208)",
+    "inventory_quantity": 3,
+    "ratings": 4.8,
+    "updated_at": "2024-04-02T03:24:33.708Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b7bc8a7a36e250132b224",
+    "product_id": "pd11",
+    "product_name": "Bewell Ergonomic Desk Single Motor",
+    "price": 285.6,
+    "category_id": "ct13",
+    "category_name": "home & living",
+    "images": [
+      "https://down-th.img.susercontent.com/file/9d2bf5ca3b819076a5e9462bbc18139c",
+      "https://down-th.img.susercontent.com/file/a5ed7ae1477808eb4dbc18552d4daa35",
+      "https://down-th.img.susercontent.com/file/22441df98cbda4cae8369a9f04d50f0d"
+    ],
+    "description": "โต๊ะปรับระดับได้เพื่อสุขภาพ มอเตอร์เดี่ยว ราคาประหยัด ทางเลือกใหม่สำหรับสุขภาพของคนวัยทำงาน ",
+    "inventory_quantity": 20,
+    "ratings": 4.8,
+    "updated_at": "2024-04-02T03:30:16.621Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b7ca3a7a36e250132b226",
+    "product_id": "pd12",
+    "product_name": "VISTRA ZINC 15MG",
+    "price": 5.57,
+    "category_id": "ct14",
+    "category_name": "health & wellness",
+    "images": [
+      "https://down-th.img.susercontent.com/file/th-11134207-7r98s-ls9jfrroh3seaa",
+      "https://down-th.img.susercontent.com/file/th-11134207-7r98y-ls9jt1u8spria0",
+      "https://down-th.img.susercontent.com/file/th-11134207-7r990-ls9jfrroiicub4"
+    ],
+    "description": "วิตามิน Zinc (ซิงก์) แร่ธาตุสำคัญที่จำเป็นสำหรับทุกช่วงวัย ปัญหาเรื่องสุขภาพที่เกี่ยวกับผม ผิว สิว เล็บ รวมถึงภูมิคุ้มกันที่ลดลงสามารถดูแลด้วย วิตามิน Zinc (ซิงก์) แร่ธาตุสังกะสี ซึ่งเป็นแร่ธาตุตัวสำคัญที่มีความจำเป็นต่อร่างกาย",
+    "inventory_quantity": 6,
+    "ratings": 4.8,
+    "updated_at": "2024-04-02T03:33:55.110Z",
+    "__v": 0
+  },
+  {
+    "_id": "661cb764354610b79cdaa672",
+    "product_id": "pd13",
+    "product_name": "Samsung Galaxy A15 5G 8/256GB",
+    "price": 228.54,
+    "category_id": "ct01",
+    "category_name": "mobile & gadgets",
+    "images": [
+      "https://down-th.img.susercontent.com/file/5173f8ba42bbe32f8c9d1ffc698f687c",
+      "https://down-th.img.susercontent.com/file/9069aec81416a5e08957e86bacf3b8c3",
+      "https://down-th.img.susercontent.com/file/70baed353cc689c0f239cec02acf7fca"
+    ],
+    "description": "Galaxy A15 5G เร็วแรง 5G RAM 8 จอ Super AMOLED RAM 8+8GB ความจุ 256 GBหน้าจอชัด สีสด Super AMOLEDชิปเซตเร็วแรง Dimensity 6100+",
+    "inventory_quantity": 3,
+    "ratings": 5,
+    "updated_at": "2024-04-15T05:13:08.708Z",
+    "__v": 0
+  }
+]
+
