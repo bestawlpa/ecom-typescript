@@ -49,17 +49,19 @@ const Register = () => {
   return (
     <div className="container">
         <Header />
-        <div style={{width:'1000px',height:'100vh' ,  margin:'20px',background:'red'}}>
-            <div>
-                <h1>regieter</h1>
-                <form onSubmit={handlesubmit}>
-                <div style={{display:'flex', flexDirection:'column'}}>
-                    <input type="text" placeholder='username' value={username} onChange={(e) => setUsername(e.target.value)}/>
-                    <input type="text" placeholder='email' value={email} onChange={(e) => setEmil(e.target.value)}/>
-                    <input type="text" placeholder='password' value={password} onChange={(e) => setPassword(e.target.value)}/>
-                    <button type='submit'>submit</button>
+        <div style={{width:'1000px',height:'100vh' , margin:'20px'}}>
+            <div style={{width:'1000px', height:'400px', display:'flex', justifyContent:'center', alignItems:'center'}}>
+                <div>
+                    <h1>Register</h1>
+                    <form onSubmit={handlesubmit}>
+                        <div style={{display:'flex', flexDirection:'column',justifyContent:'space-around', width:'200px', height:'160px'}}>
+                            <input style={{height:'26px', borderRadius:'8px',outline:'none',border:'none',padding:'0 8px'}} type="text" placeholder='username' value={username} onChange={(e) => setUsername(e.target.value)}/>
+                            <input style={{height:'26px', borderRadius:'8px',outline:'none',border:'none',padding:'0 8px'}} type="text" placeholder='email' value={email} onChange={(e) => setEmil(e.target.value)}/>
+                            <input style={{height:'26px', borderRadius:'8px',outline:'none',border:'none',padding:'0 8px'}} type="text" placeholder='password' value={password} onChange={(e) => setPassword(e.target.value)}/>
+                            <button style={{height:'26px', borderRadius:'8px',outline:'none',border:'none',background:'green'}} type='submit'>submit</button>
+                        </div>
+                    </form>
                 </div>
-            </form>
             </div>
         </div>
         <Footer/>
