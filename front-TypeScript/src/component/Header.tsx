@@ -1,8 +1,17 @@
-import React from 'react'
+import React,{useContext} from 'react'
 import { Link } from 'react-router-dom'
+import { SearchContext } from '../context/SearchContext'
+
 
 
 const Header = () => {
+    const { setSearch } = useContext(SearchContext);
+
+    
+    
+    const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+        setSearch(e.target.value)
+    }
   return (
     <div style={{width: '100%', height: '100px', background: '#1A4D2E', display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
         <div style={{width:'1200px', height:'80px', display:'flex', justifyContent:'space-between', alignItems:'center'}}>
@@ -12,7 +21,7 @@ const Header = () => {
                 </Link>
             </div>
             <div style={{height:'30px', width:'300px', display:'flex', justifyContent:'space-between',alignItems:'center', background:'#FFFFFF', borderRadius:'8px', overflow:'hidden'}}>
-                <input type="text" placeholder='search' style={{width:'250px', outline:'none', border:'none', borderRadius:'8px', height:'26px', padding:'0 6px'}}/>
+                <input type="text" placeholder='search'  onChange={handleInputChange} style={{width:'250px', outline:'none', border:'none', borderRadius:'8px', height:'26px', padding:'0 6px'}}/>
                 <button style={{background:'#FFFFFF',  border: 'none', borderLeft: '2px solid #000000', height:'24px', display:'flex', alignItems:'center', justifyContent:'center'}}>
                     <img src="./header/search-svgrepo-com (2).svg" alt="img" style={{width:'22px', height:'22px'}}/>
                 </button>
