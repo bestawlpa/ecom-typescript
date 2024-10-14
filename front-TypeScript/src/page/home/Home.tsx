@@ -1,7 +1,7 @@
-import React, { useState, useEffect, useContext } from "react";
+import React, { useState, useEffect } from "react";
 import Header from "../../component/Header";
 import Footer from "../../component/Footer";
-import { SearchContext } from "../../context/SearchContext";
+
 
 
 
@@ -13,7 +13,7 @@ interface Product {
 
 const Home: React.FC = () => {
   const [products, setProducts] = useState<Product[]>([]); 
-  const { search } = useContext(SearchContext)
+  
 
   const getProducts = async () => {
     try {
@@ -32,15 +32,11 @@ const Home: React.FC = () => {
     getProducts();
   }, []);
 
-  const filteredProducts = products.filter(product =>
-    product.product_name.toLowerCase().includes(search.toLowerCase())
-  );
-
   return (
     <div className="container">
       <Header />
       <div id="context" style={{display:'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: '16px', width:'1000px', height:'100vh', margin:'20px',background:'red'}}>
-        {filteredProducts.map((e) => (
+        {products.map((e) => (
           <div key={e.id} >
             <h1>{e.product_name}</h1>
             <div>
