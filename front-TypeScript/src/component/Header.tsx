@@ -75,7 +75,7 @@ const Header = () => {
                             style={{ width: '250px', outline: 'none', border: 'none', borderRadius: '8px', height: '26px', padding: '0 6px' }}
                         />
                         <button style={{ background: '#FFFFFF', border: 'none', borderLeft: '2px solid #000000', height: '24px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                            <img src="./header/search-svgrepo-com (2).svg" alt="img" style={{ width: '22px', height: '22px' }} />
+                            <img src="/header/search-svgrepo-com (2).svg" alt="img" style={{ width: '22px', height: '22px' }} />
                         </button>
                     </div>
                     {openSearch && (
@@ -104,7 +104,7 @@ const Header = () => {
                     </Link>
                     <Link to={"/register"} style={{ textDecoration: 'none' }}>
                         <div>
-                            <img src="./header/cart-shopping-svgrepo-com (1).svg" alt="img" style={{ width: '22px', height: '22px' }} />
+                            <img src="/header/cart-shopping-svgrepo-com (1).svg" alt="img" style={{ width: '22px', height: '22px' }} />
                         </div>
                     </Link>
                     <Link to={""} style={{ textDecoration: 'none' }}>
