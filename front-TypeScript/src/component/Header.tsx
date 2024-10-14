@@ -81,8 +81,8 @@ const Header = () => {
                     {openSearch && (
                         <div style={{ position: 'absolute', top: '32px', right: '-30px', width: '350px', height: '200px', background: '#FFFFFF', borderRadius: '8px', zIndex:'10', padding:'4px'}}>
                             {filteredProduct.map((e) => (
-                                <div key={e.id}>
-                                    <Link to={''} style={{ textDecoration: 'none' }}>
+                                <div key={e.id} style={{height:'50px'}}>
+                                    <Link to={`/product/${e.id}`} style={{ textDecoration: 'none' }}>
                                         {e.product_name}
                                     </Link>
                                 </div>

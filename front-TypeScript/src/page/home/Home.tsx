@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Header from "../../component/Header";
 import Footer from "../../component/Footer";
+import { Link } from "react-router-dom";
 
 
 
@@ -35,13 +36,17 @@ const Home: React.FC = () => {
   return (
     <div className="container">
       <Header />
-      <div id="context" style={{display:'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: '16px', width:'1000px', height:'100vh', margin:'20px',background:'red'}}>
+      <div id="context" style={{display:'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: '16px', width:'1000px', height:'100vh', margin:'20px'}}>
         {products.map((e) => (
           <div key={e.id} >
-            <h1>{e.product_name}</h1>
-            <div>
-              <img src={e.images[0]} alt="" style={{height:'150px', width:'150px'}}/>
-            </div>
+            <Link to={`/product/${e.id}`} style={{ textDecoration: 'none' }}> 
+              <div>
+                <h1>{e.product_name}</h1>
+                <div>
+                  <img src={e.images[0]} alt="" style={{height:'150px', width:'150px'}}/>
+                </div>
+              </div>
+            </Link>
           </div>
         ))}
       </div>
